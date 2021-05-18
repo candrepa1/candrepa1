@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/22b4pn7j7ytmkacez2nvvxloq)
+[<img src="https://novatorem-candrepa1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22b4pn7j7ytmkacez2nvvxloq)
 
 ### Connect with me:
 
@@ -109,3 +109,14 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<!-- https://accounts.spotify.com/authorize?client_id=fee9bf457acf4dcdb6d746feaabed3bf&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
+
+AQDqC13K3CieEx26NYnkzpKalcn0yQO2RAIr0zNf5ZnE2mpHOGHBUdwd9RdVZSz3E28H_8XZs-kEbX1o-IvE5pWL186vJiWbSIZJsEt0EGAm9RbBFOBVrt7_6sN2arReeNf47wePlEhOy6Yals_05uFf0hSdL8wo3SjWiwjlabzNcguYepx1Qdjal7traI_eFlY-9vuG2Vt45BWO5DUULbf1k93nf0AZCsLMXis4Vg1X58uifkw
+
+ZmVlOWJmNDU3YWNmNGRjZGI2ZDc0NmZlYWFiZWQzYmY6MTdmNTM2ZTg4ODRkNGY5ZDk2YTQxYmMwMzI1Yzk2MGE=
+
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic ZmVlOWJmNDU3YWNmNGRjZGI2ZDc0NmZlYWFiZWQzYmY6MTdmNTM2ZTg4ODRkNGY5ZDk2YTQxYmMwMzI1Yzk2MGE=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQDqC13K3CieEx26NYnkzpKalcn0yQO2RAIr0zNf5ZnE2mpHOGHBUdwd9RdVZSz3E28H_8XZs-kEbX1o-IvE5pWL186vJiWbSIZJsEt0EGAm9RbBFOBVrt7_6sN2arReeNf47wePlEhOy6Yals_05uFf0hSdL8wo3SjWiwjlabzNcguYepx1Qdjal7traI_eFlY-9vuG2Vt45BWO5DUULbf1k93nf0AZCsLMXis4Vg1X58uifkw" https://accounts.spotify.com/api/token -->
+
+
+
