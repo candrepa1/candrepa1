@@ -16,9 +16,10 @@
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://novatorem-candrepa1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22b4pn7j7ytmkacez2nvvxloq) -->
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-nine-ashen.vercel.app/api?username=candrepa1&show_icons=true&hide_border=true" />
 
-### Connect with me :mailbox_with_no_mail:
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-nine-ashen.vercel.app/api?username=candrepa1&show_icons=true&hide_border=true" />
+
+# Connect with me :mailbox_with_no_mail:
 
 <a href="https://www.linkedin.com/in/candrepa1/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
