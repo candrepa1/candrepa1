@@ -16,6 +16,7 @@
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://novatorem-candrepa1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22b4pn7j7ytmkacez2nvvxloq) -->
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-nine-ashen.vercel.app/api?username=candrepa1&show_icons=true&hide_border=true" />
 
 ### Connect with me :mailbox_with_no_mail:
 
