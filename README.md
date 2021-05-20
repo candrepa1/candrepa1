@@ -17,7 +17,10 @@
   <a href="#"><img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=candrepa1&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 # Connect with me :mailbox_with_no_mail:
 
