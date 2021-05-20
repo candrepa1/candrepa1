@@ -13,7 +13,7 @@
 
 [<img src="https://novatorem-candrepa1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22b4pn7j7ytmkacez2nvvxloq) -->
 
-<p align='center'>
+<p>
   <a href="#"><img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=candrepa1&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
