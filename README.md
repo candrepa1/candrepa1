@@ -3,11 +3,7 @@
 :computer: Frontend Developer (and Backend-ish)
 :colombia: Living in Colombia
 
-<!-- <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=candrepa1.candrepa1" />  -->
-
-<!-- ## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -17,7 +13,9 @@
 
 [<img src="https://novatorem-candrepa1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22b4pn7j7ytmkacez2nvvxloq) -->
 
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-nine-ashen.vercel.app/api?username=candrepa1&show_icons=true&hide_border=true" />
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=candrepa1&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 # Connect with me :mailbox_with_no_mail:
 
