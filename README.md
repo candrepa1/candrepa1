@@ -13,17 +13,14 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://novatorem-candrepa1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22b4pn7j7ytmkacez2nvvxloq)
+[<img src="https://novatorem-candrepa1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22b4pn7j7ytmkacez2nvvxloq) -->
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Twitter Badge](https://img.shields.io/badge/-@candrepa1-black?style=flat-square&logo=twitter&link=https://twitter.com/sebg96)](https://twitter.com/candrepa1)
+[![Linkedin Badge](https://img.shields.io/badge/-Camila_Parada_Valderrama-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/candrepa1/)](https://www.linkedin.com/in/candrepa1/)
 
 <br />
 
