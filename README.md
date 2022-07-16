@@ -3,7 +3,6 @@
 :computer: Frontend Developer (and Backend-ish)
 :colombia: Living in Colombia
 
-- 🔭 Looking for Frontend or FullStack Development opportunities!
 - 🌱 I’m currently learning how to build REST APIs with node.js
 - 👯 Might start sharing what I've learned... soon.
 - 🥅 I'm interested in learning Flutter or React Native, and Go.
