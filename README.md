@@ -1,10 +1,10 @@
-## Hi there, I'm Camila 👋
+## 👋
 
-Currently learning about:
+Following a project-based/problem-solving approach to learning:
 
-  - Performance in React
-  - Jenkins and CI/CD
-  - Effective TDD
+- AWS S3 for storage and static website hosting.
+- AWS ECR for container storage (public and private registries).
+- Implicitly learning about AWS IAM, roles and permissions.
 
 ## Connect with me :mailbox_with_no_mail:
 
