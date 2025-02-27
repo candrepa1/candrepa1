@@ -1,10 +1,8 @@
-## 👋
+## 👋 Hey, I’m Cam!
 
-Following a project-based/problem-solving approach to learning:
+I work best when I have to adapt, figure things out, adjust, and improve as I go. That’s why I build projects to solve my own problems, creating tools that are practical and effective.
 
-- AWS S3 for storage and static website hosting.
-- AWS ECR for container storage (public and private registries).
-- Implicitly learning about AWS IAM, roles and permissions.
+I’m all about making things that work because they’re built on the right insights. Every project is an experiment, a challenge, and a way to keep learning.
 
 ## Connect with me :mailbox_with_no_mail:
 
